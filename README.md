@@ -1,66 +1,63 @@
-<!-- ✨ Cute Pixel README for GitHub ✨ -->
-<h1 align="center">🌸 Hey there! I'm <b>Akshu</b> 🌸</h1>
+<!-- 💻 Professional Coder-Style GitHub README -->
+<h1 align="center">🚀 Hey, I'm <b>Akshita Swarnkar</b> 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/XFdzKQv/pixel-cat.gif" width="120" alt="Pixel cat waving"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation">
 </p>
 
 ---
 
-### 🩷 About Me
-🌷 Just a curious soul exploring code, creativity & caffeine!  
-🎨 I love painting, pixel art, and making random projects that sometimes… actually work 😆  
-💻 Currently learning **Web Development + Data Science**  
-🚀 Dreaming of becoming a **millionaire (or billionaire 👑)** with code  
+### 🧠 About Me
+💡 Passionate about **building, breaking, and fixing** things through code.  
+🎯 Currently exploring **Full Stack Development** + **Data Science**  
+🔥 I love solving problems, learning systems, and turning caffeine into logic.  
+💭 My goal — to build something that *changes the game*.  
 
+---
+
+### 🧰 Tech Arsenal
 <p align="center">
-  <img src="https://i.ibb.co/pKRdZ3Z/pixel-laptop.gif" width="160" alt="Pixel laptop working"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,react,git,github,mysql,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-### 💡 Tech Stack
+### ⚙️ Projects
+| 🚀 Project | 🧩 Description | 🔗 Link |
+|-------------|----------------|---------|
+| 🧠 **Predictive Maintenance (Aviation)** | Machine learning project predicting equipment failure | [View Repo](#) |
+| 💻 **Dopamine Tracker** | Simple web app to track mood & motivation | [View Repo](#) |
+| 🌐 **Portfolio v2.0** | Personal site built using React + Tailwind | [View Repo](#) |
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,react,git,github,vscode&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 🌈 Projects
-| 🌟 Project | 💬 Description | 🔗 Link |
-|------------|----------------|---------|
-| 🐱 **Dopamine Tracker** | A web app to track daily happiness levels. | [View Repo](#) |
-| 🧠 **Predictive Maintenance** | Data science case study using aviation dataset. | [View Repo](#) |
-| 🎮 **Pixel Portfolio** | Personal site built with HTML + CSS pixel theme. | [View Repo](#) |
+### 🧩 Currently Learning
+- Advanced Flask & REST APIs  
+- Data Visualization with Python  
+- System Design & Scalability Concepts  
 
 ---
 
-### ☕ Fun Zone
-🧃 *Favourite stack:* JavaScript + Python  
-🌙 *Coding mood:* Lo-fi beats & night vibes  
-🐾 *Personality:* Mix of chaos & charm ✨  
-
+### 🌍 Connect With Me
 <p align="center">
-  <img src="https://i.ibb.co/x5RzmG5/pixel-stars.gif" width="150" alt="Pixel stars"/>
-</p>
-
----
-
-### 💌 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/melowhisk_coder"><img src="https://i.ibb.co/Z6LjsmD/pixel-heart.gif" width="50"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://i.ibb.co/LvHTM1t/pixel-mail.gif" width="50"/></a>
+  <a href="https://instagram.com/melowhisk_coder"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/2vHPkQ9/pixel-divider.gif" width="400"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=90&section=footer"/>
 </p>
 
-<p align="center">
-  <b>✨ “Code a little, dream a lot.” ✨</b><br>
-  Made with 🩷 by <b>Akshu</b> 🌸
-</p>
 
