@@ -1,30 +1,66 @@
-# 💻 Akshita Swarnkar | @melowhisk-coder
+<!-- ✨ Cute Pixel README for GitHub ✨ -->
+<h1 align="center">🌸 Hey there! I'm <b>Akshu</b> 🌸</h1>
 
-> 🐾 Cute on the outside, ultra-promax humor & code on the inside.
+<p align="center">
+  <img src="https://i.ibb.co/XFdzKQv/pixel-cat.gif" width="120" alt="Pixel cat waving"/>
+</p>
 
-Hi! I'm **Akshita** – a student dreaming big, coding bigger.  
-Currently on a journey to master Computer Science and build things that make life smarter (and funnier 😏).
+---
 
-## 🌸 About Me
-- 👩‍💻 Passionate about tech, AI & creative coding
-- 🧠 Learning to turn coffee into code (and bugs into features)
-- 🎨 Love painting & bringing art into tech
-- 🏆 Aim: Millionaire (or billionaire – why not?)
+### 🩷 About Me
+🌷 Just a curious soul exploring code, creativity & caffeine!  
+🎨 I love painting, pixel art, and making random projects that sometimes… actually work 😆  
+💻 Currently learning **Web Development + Data Science**  
+🚀 Dreaming of becoming a **millionaire (or billionaire 👑)** with code  
 
-## 🛠 Tech & Tools
-- Languages: `Python`, `JavaScript`, `C++`, `HTML/CSS`
-- Exploring: AI, WebDev, GameDev
-- Tools: VSCode, Git, Figma, Blender (just playing around)
+<p align="center">
+  <img src="https://i.ibb.co/pKRdZ3Z/pixel-laptop.gif" width="160" alt="Pixel laptop working"/>
+</p>
 
-## ✨ Fun Facts
-- 🫶 Hands: 17 cm of typing power
-- 😎 Onyx eyes spotting bugs faster than AI
-- 🖌 Draws cute things, but writes code that bites
+---
 
-## 📫 Connect with me
-- Instagram: [@melowhisk_coder](https://instagram.com/melowhisk_coder)
-- Coming soon: Personal portfolio & blog
+### 💡 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,react,git,github,vscode&theme=light" />
+</p>
 
-> _"Appear innocent, code like a beast."_
+---
 
-<!-- If you’re here, drop a ⭐ and say hi! -->
+### 🌈 Projects
+| 🌟 Project | 💬 Description | 🔗 Link |
+|------------|----------------|---------|
+| 🐱 **Dopamine Tracker** | A web app to track daily happiness levels. | [View Repo](#) |
+| 🧠 **Predictive Maintenance** | Data science case study using aviation dataset. | [View Repo](#) |
+| 🎮 **Pixel Portfolio** | Personal site built with HTML + CSS pixel theme. | [View Repo](#) |
+
+---
+
+### ☕ Fun Zone
+🧃 *Favourite stack:* JavaScript + Python  
+🌙 *Coding mood:* Lo-fi beats & night vibes  
+🐾 *Personality:* Mix of chaos & charm ✨  
+
+<p align="center">
+  <img src="https://i.ibb.co/x5RzmG5/pixel-stars.gif" width="150" alt="Pixel stars"/>
+</p>
+
+---
+
+### 💌 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/melowhisk_coder"><img src="https://i.ibb.co/Z6LjsmD/pixel-heart.gif" width="50"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://i.ibb.co/LvHTM1t/pixel-mail.gif" width="50"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/2vHPkQ9/pixel-divider.gif" width="400"/>
+</p>
+
+<p align="center">
+  <b>✨ “Code a little, dream a lot.” ✨</b><br>
+  Made with 🩷 by <b>Akshu</b> 🌸
+</p>
+
