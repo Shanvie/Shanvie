@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Akshita Swarnkar (a.k.a Shanvie by Github name). ✨<br>I'm Currently a Diploma Student pursuing in Electronics and Computer Engineering at Vidyalankar Polytechnic. 📚<br>I'm 17 years old & currently in my first year. 💀<br>I'm very good at bumping my head on keyboard whenever an error occurs. 🙃<br><br>
+I'm Akshita Swarnkar (a.k.a Shanvie by Github name). ✨<br>I'm Currently a Diploma Student pursuing in Electronics and Computer Engineering at Vidyalankar Polytechnic. 📚<br>I'm 17 years old & currently in my second year. 💀<br>I'm very good at bumping my head on keyboard whenever an error occurs. 🙃<br><br>
 
 
 ## 🌐 Socials:
